@@ -51,10 +51,12 @@ I am a systems-oriented engineer with strong foundations in machine learning, ro
 
 ### 🚀 Featured Projects
 
-- **[Intelligent Document Agent](https://github.com/thetanishqrathore/IDP)**: Production-grade Intelligent Document Processing platform using FastAPI, Qdrant, LLMs, and React.
-- **GPT-Style Transformer**: Implemented a GPT-style Transformer architecture from first principles (PyTorch/CUDA).
-- **Autonomous Multi-Agent**: Orchestration layer for autonomous agents using Model Context Protocol (n8n, Python).
-- **Real-Time Basketball Detection**: Object detection pipeline using custom and synthetic datasets (YOLOv8, CV).
+- **[Sovereign-RAG](https://github.com/thetanishqrathore/sovereign-rag)** — On-prem, air-gappable document intelligence: an IDP + RAG platform serving grounded, cited answers over a hybrid retrieval engine, running fully local on a single GPU. *(Python · FastAPI · Qdrant · vLLM · React)*
+- **[IDP — Intelligent Document Processing](https://github.com/thetanishqrathore/IDP)** — Production-grade Document AI platform with hybrid search, layout-aware chunking, strict grounding/citations, and a headless automation API. *(FastAPI · Qdrant · LLMs · React)*
+- **[Theo-RAG](https://github.com/thetanishqrathore/theo-rag)** — Evidence-first, on-prem RAG over large text corpora with parent/child chunk graphs and streaming token-level citations. *(FastAPI · Qdrant · pgvector · Ollama)*
+- **[Vox](https://github.com/thetanishqrathore/Vox)** — macOS dictation app: hold a hotkey, speak, and Groq Whisper transcribes and pastes at your cursor. Swappable provider architecture. *(Swift 6 · SwiftUI)*
+- **[Object-Following Bot](https://github.com/thetanishqrathore/Object-Following-Bot)** — Real-time YOLOv8 rover: OpenCV + PyTorch perception on an RTX GPU driving an Arduino Mega over serial. *(YOLOv8 · OpenCV · Arduino)*
+- **[Weld Check](https://github.com/thetanishqrathore/weld_check)** — Computer-vision pipeline for automated surface-defect detection and classification in Friction Stir Welding. *(OpenCV · Image Processing)*
 
 ---
 
