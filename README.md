@@ -1,6 +1,6 @@
-# Hi there, I'm Tanishq Rathore! 👋
+# Hi there, I'm Tanishq Rathore!
 
-## 🤖 AI Engineer & Systems Architect
+## AI Engineer & Systems Architect
 
 > "Designing intelligent systems across Deep Learning, Robotics, and Infrastructure."
 
@@ -8,7 +8,7 @@ I am a systems-oriented engineer with strong foundations in machine learning, ro
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 **Deep Learning & AI**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
@@ -34,7 +34,7 @@ I am a systems-oriented engineer with strong foundations in machine learning, ro
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Founder & Lead Systems Engineer @ Raeon Labs**
 *Aug 2025 — Present*
@@ -49,7 +49,7 @@ I am a systems-oriented engineer with strong foundations in machine learning, ro
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **[Sovereign-RAG](https://github.com/thetanishqrathore/sovereign-rag)** — On-prem, air-gappable document intelligence: an IDP + RAG platform serving grounded, cited answers over a hybrid retrieval engine, running fully local on a single GPU. *(Python · FastAPI · Qdrant · vLLM · React)*
 - **[IDP — Intelligent Document Processing](https://github.com/thetanishqrathore/IDP)** — Production-grade Document AI platform with hybrid search, layout-aware chunking, strict grounding/citations, and a headless automation API. *(FastAPI · Qdrant · LLMs · React)*
@@ -60,19 +60,19 @@ I am a systems-oriented engineer with strong foundations in machine learning, ro
 
 ---
 
-### 🎓 Education
+### Education
 
 - **B.Tech in Mechanical Engineering** | Sardar Vallabhbhai National Institute of Technology (NIT) | *2023 - 2027*
 - **B.S. in Electronic Systems** | Indian Institute of Technology, Madras (IITM) | *2024 - 2028*
 
-### 📜 Certifications
+### Certifications
 - **Deep Learning Specialization** (DeepLearning.AI & Andrew Ng)
 - **Machine Learning Specialization** (Stanford University)
 - **Data Structures & Algorithms in C++** (Coding Ninjas)
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thetanishqrathore/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/tanishq_exe)
